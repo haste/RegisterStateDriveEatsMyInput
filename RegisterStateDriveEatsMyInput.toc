@@ -1,0 +1,8 @@
+## Interface: 40000
+## Title: RegisterStateDriveEatsMyInput
+## Author: Haste
+## Version: 1.0
+## X-eMail: troeks@gmail.com
+## Notes: PoC
+
+registerstatedriveeatsmyinput.lua
